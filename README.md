@@ -14,7 +14,7 @@ Automatically check and format your py files:
 - [x] Chapter 3
 - [x] Chapter 4
 - [X] Chapter 5
-- [ ] Chapter 6
+- [x] Chapter 6
 - [ ] Chapter 7
 - [ ] Chapter 8
 - [ ] Chapter 9
