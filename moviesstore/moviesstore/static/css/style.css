@@ -3,6 +3,10 @@
 	background-size: 100% auto;
 }
 
+body > div {
+    flex: 1;
+}
+
 .navbar a.nav-link {
 	color: #fffef6 !important;
 }
